@@ -1,0 +1,1 @@
+Biblioteca virtual que armazena livros, autores e editoras. A aplicação contém requisição e resposta diretamente da API, criada com MONGODB, atualmente existem apenas dois livros criados, porém isso é facilmente alterado utilizando POSTMAN (foi usada no projeto).
